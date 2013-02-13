@@ -106,7 +106,7 @@ return CMap::mergeArray(
                 ),
 
                 'db' => array(
-                    'connectionString' => 'mysql:host=localhost;dbname=domain_database',
+                    'connectionString' => 'mysql:host=localhost;dbname=yiiapps_database',
                     'emulatePrepare' => true,
                     'username' => 'root',
                     'password' => '',
