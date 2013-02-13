@@ -92,21 +92,13 @@ return CMap::mergeArray(
                     'errorAction' => 'site/error'
                 ),
                 'db' => array(
-                    'connectionString' => 'mysql:host=localhost;dbname=domain_database',
+                    'connectionString' => 'mysql:host=localhost;dbname=yiiapps_database',
                     'emulatePrepare' => true,
                     'username' => 'root',
                     'password' => '',
                     'charset' => 'utf8',
                 //'tablePrefix' => 'tbl_',
                 ),
-//                'db' => array(
-//                    'connectionString' => 'mysql:host=localhost;dbname=yiiappsc_uxldatabase',
-//                    'emulatePrepare' => true,
-//                    'username' => 'yiiappsc_uxer',
-//                    'password' => 'byL4wFghg8Zk91T',
-//                    'charset' => 'utf8',
-//                //'tablePrefix' => 'tbl_',
-//                ),
                 'urlManager' => array(
                     'urlFormat' => 'path',
                     'showScriptName' => false,
