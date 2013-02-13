@@ -1,4 +1,4 @@
 yiiapps-startup
 ===============
 
-Yii framework complete startup amdmin and front end template
+Yii framework complete startup admin and front end template
