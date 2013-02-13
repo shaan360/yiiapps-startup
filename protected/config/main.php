@@ -91,7 +91,7 @@ return CMap::mergeArray(
                 ),
 
                 'db' => array(
-                    'connectionString' => 'mysql:host=localhost;dbname=yiiapps_database',
+                    'connectionString' => 'mysql:host=localhost;dbname=yiiapps_startup',
                     'emulatePrepare' => true,
                     'username' => 'root',
                     'password' => '',
