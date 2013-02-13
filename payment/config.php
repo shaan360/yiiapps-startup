@@ -26,7 +26,7 @@ $smtp_auth = false;
 $smtp_username = '';
 $smtp_password = '';
 $smtp_host = '';
-$email_from_address = 'shaanmk@gmail.com';
+$email_from_address = 'shaan@uexel.com';
 $email_from_name = 'Shaan';
 
 /*
@@ -34,7 +34,7 @@ Site Admin :
 These values will be used to send administration emails to.  Errors, IPN confirmations, etc.
 */
 
-$admin_email_address = 'shaanmk@gmail.com';
+$admin_email_address = 'shaan@uexel.com';
 $admin_name = 'shaan';
 
 /*
@@ -45,7 +45,7 @@ $db_table_prefix will be used for the names of the tables
 
 $db_host = $sandbox ? 'localhost' : 'localhost';	
 $db_username = $sandbox ? 'uexelus_amjad' : 'uexelus_amjad';
-$db_password = $sandbox ? '123uexel456' : '123uexel456';
+$db_password = $sandbox ? '234234' : '23424';
 $db_database = $sandbox ? 'uexelus_dps' : 'uexelus_dps';
 $db_table_prefix = '';  
 
