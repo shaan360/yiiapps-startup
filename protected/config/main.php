@@ -104,14 +104,7 @@ return CMap::mergeArray(
                 'mailer' => array(
                     'class' => 'common.extensions.mailer.EMailer',
                 ),
-//                'db' => array(
-//                    'connectionString' => 'mysql:host=localhost;dbname=admin_dps_database',
-//                    'emulatePrepare' => true,
-//                    'username' => 'admin_dpsuser',
-//                    'password' => 'admin_',
-//                    'charset' => 'utf8',
-//                //'tablePrefix' => 'tbl_',
-//                ),
+
                 'db' => array(
                     'connectionString' => 'mysql:host=localhost;dbname=domain_database',
                     'emulatePrepare' => true,
@@ -120,15 +113,7 @@ return CMap::mergeArray(
                     'charset' => 'utf8',
                 //'tablePrefix' => 'tbl_',
                 ),
-                //remote
-//                 'db' => array(
-//                    'connectionString' => 'mysql:host=localhost;dbname=uexelus_dps',
-//                    'emulatePrepare' => true,
-//                    'username' => 'uexelus_amjad',
-//                    'password' => '123uexel456',
-//                    'charset' => 'utf8',
-//                //'tablePrefix' => 'tbl_',
-//                ),
+
                 'urlManager' => array(
                     'urlFormat' => 'path',
                     'showScriptName' => false,
