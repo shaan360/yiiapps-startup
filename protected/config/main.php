@@ -75,22 +75,7 @@ return CMap::mergeArray(
                     //'defaultSubject' => 'this is default subject',
                     
                 ),
-//                'payPal' => array(
-//                    'env' => 'sandbox',
-//                    'account' => array(
-//                        'username' => 'amjad@uexel.com',
-//                        'password' => '12345678',
-//                        'signature' => 'Your PayPal API signature',
-//                        'email' => 'amjad@uexel.com',
-//                        'identityToken' => 'Your PayPal identity token',
-//                    ),
-//                    'components' => array(
-//                        'buttonManager' => array(
-//                            //'class'=>'payPal.components.PPDbButtonManager'
-//                            'class' => 'payPal.components.PPPhpButtonManager',
-//                        ),
-//                    ),
-//                ),
+
             ),
             /* uncomment and set if required */
             // @see http://www.yiiframework.com/doc/api/1.1/CModule#setModules-detail
