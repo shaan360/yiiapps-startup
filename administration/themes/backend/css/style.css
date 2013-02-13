@@ -1,0 +1,32 @@
+/* 
+    Document   : style
+    Created on : Oct 10, 2012, 11:49:51 AM
+    Author     : Shaan Khan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.content {
+    margin-top: 45px;
+    background-color: #fff;
+    padding: 3px;
+    -webkit-border-radius:6px 6px 6px 6px;
+    -moz-border-radius: 6px 6px 6px 6px;
+    border-radius: 6px 6px 6px 6px;
+    -webkit-box-shadow: 6px 14px 42px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 6px 14px 42px rgba(0, 0, 0, 0.15);
+    box-shadow: 6px 14px 42px rgba(0, 0, 0, 0.15);
+}
+#main{
+    margin-top: 30px;
+}
+.sidebar{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #999;
+    border-radius: 5px;
+    background: #F1F1F1;
+    
+}
+.detail-view th{
+    text-align:left;
+}
