@@ -1,5 +1,5 @@
 <table dir="ltr">
-      <tbody><tr><td style="padding:0;font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif;font-size:17px;color:#707070">Domain Parking Station account</td></tr>
+      <tbody><tr><td style="padding:0;font-family:'Segoe UI Semibold','Segoe UI Bold','Segoe UI','Helvetica Neue Medium',Arial,sans-serif;font-size:17px;color:#707070">Yii Apps Station account</td></tr>
       <tr><td style="padding:0;font-family:'Segoe UI Light','Segoe UI','Helvetica Neue Medium',Arial,sans-serif;font-size:41px;color:#2672ec">Verify your email address</td></tr>
       <tr><td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">To finish setting up this Domain Parking Station account, we just need to make sure this email address is yours.</td></tr>
       <tr><td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">
@@ -7,5 +7,5 @@
       </td></tr>
       <tr><td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">If you didn't make this request, <a target="_blank" href="https://account.live.com/Email/Remove?otc=*ChUnLhij7UUd2VMTufI7K!G0OGMCfVproKvVxXI8CT01OXkIVNE2tYzBD!EFSLy9iVZMBR*5clBH63oKewrbNuE$&amp;mn=shaan%40uexel.com&amp;ru=https://login.live.com/login.srf%3fwa%3dwsignin1.0%26rpsnv%3d11%26rver%3d6.0.5276.0%26wp%3dMCMBI%26wreply%3dhttps://profile.microsoft.com/RegSysProfileCenter/wizard.aspx%3fwizid%3dae0653e5-0b00-41d5-b3f4-1a7d5ea4b9c8%26lcid%3d1033%26ci%3d393%26cb%3dLCID%3d1033%26WizID%3dae0653e5-0b00-41d5-b3f4-1a7d5ea4b9c8%26brand%3dmicrosoft%26subbrand%3dprofile%2bcenter%26id%3d74335%26cbid%3d50861%26bk%3d1356719640%26uiflavor%3dWeb%26mkt%3dEN-US%26lc%3d1033%26lic%3d1%26sutk%3d1356719966955&amp;cxt=EV" style="color:#2672ec;text-decoration:none">click here</a> to cancel.</td></tr>
       <tr><td style="padding:0;padding-top:25px;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">Thanks,</td></tr>
-      <tr><td style="padding:0;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">The Microsoft account team</td></tr>
+      <tr><td style="padding:0;font-family:'Segoe UI',Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#2a2a2a">The Yiiapps team</td></tr>
 </tbody></table>
