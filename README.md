@@ -22,3 +22,6 @@ Admin Login
 Admin dashboard 
 Site lookups
   
+
+Change logs: 
+Yii framework needs to be updated to latest stable version
